@@ -1,4 +1,4 @@
---onceden icerikteki tablo ve 
+--onceden icerikteki tablo ve column'ları eklemeyi unutmayınız
 
 -- gunluk toplam bahis miktarini hesaplayan ve geri donduren method
 
