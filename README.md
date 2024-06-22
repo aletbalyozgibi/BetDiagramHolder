@@ -1,4 +1,4 @@
-# Betting Site Customer Habit Database
+# SQL Query For Betting Site Customer Habits Database
 This repository contains MS SQL scripts for managing a betting site's customer database. It includes advanced queries, functions, procedures, and triggers for efficient data management.
 @auth pauBahis
     
